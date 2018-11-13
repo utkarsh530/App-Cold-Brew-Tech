@@ -1,7 +1,8 @@
-package com.example.utkarsh.appcoldbrewtech
+package com.example.utkarsh.appcoldbrewtech.View
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.utkarsh.appcoldbrewtech.R
 
 class MainActivity : AppCompatActivity() {
 
